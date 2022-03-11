@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.pdb
