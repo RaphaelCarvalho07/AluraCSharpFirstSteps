@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\bin\Debug\11-AliquotaComIF.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\bin\Debug\11-AliquotaComIF.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\bin\Debug\11-AliquotaComIF.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\obj\Debug\11-AliquotaComIF.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\obj\Debug\11-AliquotaComIF.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\obj\Debug\11-AliquotaComIF.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\obj\Debug\11-AliquotaComIF.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\11-AliquotaComIF\obj\Debug\11-AliquotaComIF.pdb
