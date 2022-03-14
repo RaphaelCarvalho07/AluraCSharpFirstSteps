@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6_AtribuicoesDeVariaveis
+namespace _06_AtribuicoesDeVariaveis
 {
     class Program
     {

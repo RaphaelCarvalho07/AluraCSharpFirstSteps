@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7_Condicional
+namespace _07_Condicional
 {
     internal class Program
     {
