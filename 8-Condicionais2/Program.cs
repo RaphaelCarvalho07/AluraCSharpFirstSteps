@@ -22,7 +22,7 @@ namespace _8_Condicional2
                 Console.WriteLine("Não pode entrar.");
             }
 
-            Console.WriteLine("A execução acabou. Tecle Enter para sair");
+            Console.WriteLine("A execução acabou. Tecle Enter para sair!");
             Console.ReadLine();
         }
     }
