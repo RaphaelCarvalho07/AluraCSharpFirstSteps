@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\bin\Debug\9-TestaCondicional2.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\bin\Debug\9-TestaCondicional2.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\bin\Debug\9-TestaCondicional2.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\obj\Debug\9-TestaCondicional2.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\obj\Debug\9-TestaCondicional2.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\obj\Debug\9-TestaCondicional2.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\obj\Debug\9-TestaCondicional2.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\9-TestaCondicional2\obj\Debug\9-TestaCondicional2.pdb
