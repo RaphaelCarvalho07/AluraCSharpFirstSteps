@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\bin\Debug\13-WhileCalculaPoupanca.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\bin\Debug\13-WhileCalculaPoupanca.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\bin\Debug\13-WhileCalculaPoupanca.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\obj\Debug\13-WhileCalculaPoupanca.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\obj\Debug\13-WhileCalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\obj\Debug\13-WhileCalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\obj\Debug\13-WhileCalculaPoupanca.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\13-WhileCalculaPoupanca\obj\Debug\13-WhileCalculaPoupanca.pdb
