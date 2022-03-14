@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\bin\Debug\12-Switch.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\bin\Debug\12-Switch.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\bin\Debug\12-Switch.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\obj\Debug\12-Switch.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\obj\Debug\12-Switch.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\obj\Debug\12-Switch.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\obj\Debug\12-Switch.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\12-Switch\obj\Debug\12-Switch.pdb
