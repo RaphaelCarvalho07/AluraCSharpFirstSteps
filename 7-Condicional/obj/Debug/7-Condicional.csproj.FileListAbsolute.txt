@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\bin\Debug\7-Condicional.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\bin\Debug\7-Condicional.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\bin\Debug\7-Condicional.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.pdb
