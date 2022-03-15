@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\bin\Debug\15-LacoDeRepeticaoFor.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\bin\Debug\15-LacoDeRepeticaoFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\bin\Debug\15-LacoDeRepeticaoFor.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\obj\Debug\15-LacoDeRepeticaoFor.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\obj\Debug\15-LacoDeRepeticaoFor.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\obj\Debug\15-LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\obj\Debug\15-LacoDeRepeticaoFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\15-LacoDeRepeticaoFor\obj\Debug\15-LacoDeRepeticaoFor.pdb

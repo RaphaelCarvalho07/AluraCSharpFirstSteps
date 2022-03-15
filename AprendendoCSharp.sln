@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-WhileCalculaPoupanca", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-TransformandoWhileEmFor", "14-TransformandoWhileEmFor\14-TransformandoWhileEmFor.csproj", "{4AB685A9-FBCC-44BC-BA7D-DD555C36AC3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-LacoDeRepeticaoFor", "15-LacoDeRepeticaoFor\15-LacoDeRepeticaoFor.csproj", "{CDE0126F-ADC0-4EB9-ABE9-46502A6F38FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{4AB685A9-FBCC-44BC-BA7D-DD555C36AC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB685A9-FBCC-44BC-BA7D-DD555C36AC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB685A9-FBCC-44BC-BA7D-DD555C36AC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE0126F-ADC0-4EB9-ABE9-46502A6F38FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE0126F-ADC0-4EB9-ABE9-46502A6F38FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE0126F-ADC0-4EB9-ABE9-46502A6F38FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE0126F-ADC0-4EB9-ABE9-46502A6F38FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
