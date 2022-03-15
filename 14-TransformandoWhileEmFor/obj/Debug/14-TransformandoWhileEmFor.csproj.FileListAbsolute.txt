@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\bin\Debug\14-TransformandoWhileEmFor.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\bin\Debug\14-TransformandoWhileEmFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\bin\Debug\14-TransformandoWhileEmFor.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\obj\Debug\14-TransformandoWhileEmFor.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\obj\Debug\14-TransformandoWhileEmFor.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\obj\Debug\14-TransformandoWhileEmFor.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\obj\Debug\14-TransformandoWhileEmFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\14-TransformandoWhileEmFor\obj\Debug\14-TransformandoWhileEmFor.pdb
