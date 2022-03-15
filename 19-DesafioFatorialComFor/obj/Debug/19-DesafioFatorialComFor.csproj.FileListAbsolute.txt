@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\bin\Debug\19-DesafioFatorialComFor.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\bin\Debug\19-DesafioFatorialComFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\bin\Debug\19-DesafioFatorialComFor.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\obj\Debug\19-DesafioFatorialComFor.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\obj\Debug\19-DesafioFatorialComFor.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\obj\Debug\19-DesafioFatorialComFor.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\obj\Debug\19-DesafioFatorialComFor.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\19-DesafioFatorialComFor\obj\Debug\19-DesafioFatorialComFor.pdb

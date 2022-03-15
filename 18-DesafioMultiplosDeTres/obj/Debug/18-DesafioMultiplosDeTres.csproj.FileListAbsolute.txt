@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\bin\Debug\18-DesafioMultiplosDeTres.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\bin\Debug\18-DesafioMultiplosDeTres.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\bin\Debug\18-DesafioMultiplosDeTres.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\obj\Debug\18-DesafioMultiplosDeTres.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\obj\Debug\18-DesafioMultiplosDeTres.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\obj\Debug\18-DesafioMultiplosDeTres.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\obj\Debug\18-DesafioMultiplosDeTres.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\18-DesafioMultiplosDeTres\obj\Debug\18-DesafioMultiplosDeTres.pdb

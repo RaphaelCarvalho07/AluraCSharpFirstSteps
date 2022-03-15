@@ -1,0 +1,8 @@
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\bin\Debug\17-LaçoDeRepeticaoForEncadeado_2.exe.config
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\bin\Debug\17-LaçoDeRepeticaoForEncadeado_2.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\bin\Debug\17-LaçoDeRepeticaoForEncadeado_2.pdb
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\obj\Debug\17-LaçoDeRepeticaoForEncadeado_2.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\obj\Debug\17-LaçoDeRepeticaoForEncadeado_2.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\obj\Debug\17-LaçoDeRepeticaoForEncadeado_2.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\obj\Debug\17-LaçoDeRepeticaoForEncadeado_2.exe
+D:\Projetos\C#\Alura\AprendendoCSharp\17-LaçoDeRepeticaoForEncadeado_2\obj\Debug\17-LaçoDeRepeticaoForEncadeado_2.pdb
